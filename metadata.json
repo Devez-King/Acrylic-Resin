@@ -1,0 +1,7 @@
+{
+  "name": "Acrylic Resin Market Research Dashboard",
+  "description": "Professional market research report dashboard for acrylic resin featuring Global Top 10 manufacturers, application demand analysis, solid vs. solution type comparison, and regional CAGR visualizations for corporate reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
